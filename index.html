@@ -1,0 +1,161 @@
+---
+layout: default
+title: Mardi Gras Group Guide - New Orleans
+description: The ultimate guide to experiencing Mardi Gras with your crew. Where to stay, parade routes, and survival tips for the biggest party on earth.
+---
+
+<!-- Hero Section -->
+<section class="hero">
+  <div class="hero-content">
+    <p class="hero-date">February 2026</p>
+    <h1>
+      <span class="line1">MARDI</span>
+      <span class="line2">GRAS</span>
+      <span class="line3">CREWS</span>
+    </h1>
+    <p class="hero-subtitle">The definitive guide to doing Mardi Gras right—with your whole crew. Where to stay, what to see, and how to survive the greatest party on earth.</p>
+    <a href="/guides/survival-guide/" class="btn btn-gold">Get the Guide</a>
+  </div>
+</section>
+
+<!-- Countdown -->
+<section class="countdown-section">
+  <div class="container">
+    <div class="countdown-grid">
+      <div class="countdown-item">
+        <span class="countdown-number" id="days">--</span>
+        <span class="countdown-label">Days</span>
+      </div>
+      <div class="countdown-item">
+        <span class="countdown-number" id="hours">--</span>
+        <span class="countdown-label">Hours</span>
+      </div>
+      <div class="countdown-item">
+        <span class="countdown-number" id="minutes">--</span>
+        <span class="countdown-label">Minutes</span>
+      </div>
+      <div class="countdown-item">
+        <span class="countdown-number" id="seconds">--</span>
+        <span class="countdown-label">Seconds</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<script>
+// Mardi Gras 2026 is February 17, 2026
+const mardiGras = new Date('February 17, 2026 00:00:00').getTime();
+
+const countdown = setInterval(function() {
+  const now = new Date().getTime();
+  const distance = mardiGras - now;
+
+  document.getElementById('days').textContent = Math.floor(distance / (1000 * 60 * 60 * 24));
+  document.getElementById('hours').textContent = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  document.getElementById('minutes').textContent = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  document.getElementById('seconds').textContent = Math.floor((distance % (1000 * 60)) / 1000);
+
+  if (distance < 0) {
+    clearInterval(countdown);
+    document.getElementById('days').textContent = "IT'S";
+    document.getElementById('hours').textContent = "MARDI";
+    document.getElementById('minutes').textContent = "GRAS";
+    document.getElementById('seconds').textContent = "TIME";
+  }
+}, 1000);
+</script>
+
+<!-- Features Section -->
+<section class="features">
+  <div class="container">
+    <div style="text-align: center; margin-bottom: var(--spacing-lg);">
+      <h2>Why Bring Your Crew</h2>
+    </div>
+    <div class="features-grid">
+      <div class="feature-card">
+        <div class="feature-icon">&#127881;</div>
+        <h4>24/7 Party</h4>
+        <p>No last call. Parades day and night. The city never sleeps during Mardi Gras.</p>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon">&#127926;</div>
+        <h4>Live Music</h4>
+        <p>Brass bands on every corner. The soundtrack of your life for a week.</p>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon">&#127968;</div>
+        <h4>Private Villas</h4>
+        <p>Skip the hotel chaos. Private properties with pools for your whole crew.</p>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon">&#128081;</div>
+        <h4>Parade Access</h4>
+        <p>Catch throws with your friends, not fighting strangers for beads.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Property Section -->
+<section class="property-section">
+  <div class="container">
+    <div style="text-align: center; margin-bottom: var(--spacing-lg);">
+      <span class="accent-text">Book Early</span>
+      <h2>Group Accommodations</h2>
+    </div>
+    <div class="property-grid">
+      <div class="property-image">
+        <div class="property-image-placeholder">&#127968;</div>
+        <span class="property-badge">Sleeps 20+</span>
+      </div>
+      <div class="property-content">
+        <h3>Private Properties for Groups</h3>
+        <p style="color: var(--color-text-muted); margin-bottom: var(--spacing-md);">Hotels during Mardi Gras are insane—triple prices, no availability, and you're split across floors. Our recommended properties keep your crew together with private outdoor space.</p>
+        <ul class="property-features">
+          <li>Private pools and courtyards</li>
+          <li>Multiple bedrooms (6-8+)</li>
+          <li>Walking distance to parade routes</li>
+          <li>Full kitchens for pre-gaming</li>
+          <li>No noise complaints from neighbors</li>
+          <li>Book 6+ months ahead</li>
+        </ul>
+        <a href="/where-to-stay/" class="btn btn-gold">See Properties</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Schedule Section -->
+<section class="schedule-section">
+  <div class="container">
+    <div style="text-align: center; margin-bottom: var(--spacing-lg);">
+      <h2>The Mardi Gras Plan</h2>
+    </div>
+    <div class="schedule-grid">
+      <div class="schedule-day">
+        <span class="day-label">Thursday - Saturday</span>
+        <h3>The Warm-Up</h3>
+        <p>Parades start rolling. Get your bearings. Stock the house. Find your rhythm. The real madness is coming.</p>
+      </div>
+      <div class="schedule-day">
+        <span class="day-label">Sunday - Monday</span>
+        <h3>Peak Chaos</h3>
+        <p>Bacchus and Orpheus roll. This is when things get wild. Pace yourself—Mardi Gras is a marathon.</p>
+      </div>
+      <div class="schedule-day">
+        <span class="day-label">Fat Tuesday</span>
+        <h3>The Main Event</h3>
+        <p>Zulu. Rex. The walking parades. Bourbon Street madness. This is what you came for. Leave it all out there.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- CTA Section -->
+<section class="cta-section">
+  <div class="container">
+    <h2>Don't Wait to Book</h2>
+    <p>Group properties for Mardi Gras sell out 6-12 months in advance. Seriously.</p>
+    <a href="/where-to-stay/" class="btn btn-gold">Check Availability</a>
+  </div>
+</section>
