@@ -14,7 +14,6 @@ Mardi Gras isn't a party. It's a marathon of parties. Here's how to do it right 
 
 Mardi Gras (Fat Tuesday) falls 47 days before Easter. It moves every year:
 
-- **2026:** February 17
 - **2027:** February 9
 - **2028:** February 29
 - **2029:** February 13
@@ -231,7 +230,7 @@ Mardi Gras is expensive. Expect:
 | Ubers (if any) | $50-100/person |
 | **Total** | **$600-1,100/person** |
 
-This assumes you're staying in a group property and not going crazy. Hotels and last-minute bookings cost significantly more.
+This assumes you're staying in a group property and not going crazy. Hotels and last-minute bookings cost significantly more. Treat the accommodation line as a ballpark—Mardi Gras week prices higher than a normal weekend, so get a quote for your exact dates.
 
 ---
 

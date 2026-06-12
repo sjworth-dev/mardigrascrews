@@ -26,17 +26,17 @@ The challenge: Mardi Gras is chaotic by design. Planning is essential.
 
 Mardi Gras isn't one day—it's a season. When you go matters.
 
-### The Key Dates (2026)
+### The Key Dates (2027)
 
 | Day | Date | What's Happening |
 |-----|------|------------------|
-| Thursday | Feb 12 | Parades start rolling Uptown |
-| Friday | Feb 13 | Krewe of Hermes, Le Krewe d'Etat |
-| Saturday | Feb 14 | Krewe of Endymion (massive) |
-| Sunday | Feb 15 | Bacchus (celebrity king) |
-| Lundi Gras | Feb 16 | Proteus, Orpheus |
-| **Mardi Gras** | **Feb 17** | Zulu, Rex, truck parades |
-| Ash Wednesday | Feb 18 | It's over. City recovers. |
+| Thursday | Feb 4 | Parades start rolling Uptown |
+| Friday | Feb 5 | Krewe of Hermes, Le Krewe d'Etat |
+| Saturday | Feb 6 | Krewe of Endymion (massive) |
+| Sunday | Feb 7 | Bacchus (celebrity king) |
+| Lundi Gras | Feb 8 | Proteus, Orpheus |
+| **Mardi Gras** | **Feb 9** | Zulu, Rex, truck parades |
+| Ash Wednesday | Feb 10 | It's over. City recovers. |
 
 ### Which Days to Attend?
 
@@ -86,8 +86,8 @@ Mardi Gras isn't one day—it's a season. When you go matters.
 | Space for 15 | One house | 5-7 rooms on different floors |
 | Pre-game space | Living room, yard | Hotel lobby (no) |
 | Recovery space | Pool, porch | Your tiny room |
-| Cost per person | $150-300/night | $300-500/night (Mardi Gras rates) |
-| Parade access | Walk outside | Uber through traffic |
+| Cost per person | One bill split across the whole crew (roughly $100-150/person/night at 16 on a normal weekend) | Full Mardi Gras rates on every single room |
+| Real beds | Everyone gets one | Rollaways and floor space |
 
 ---
 
@@ -175,6 +175,8 @@ Settle up daily or it becomes a mess.
 - Souvenirs/beads: $50-100
 
 **Total per person: $1,100-1,500** for a 5-night Mardi Gras experience.
+
+One caveat: the housing line is a normal-weekend ballpark. Mardi Gras is a compression date and villas price higher that week—get a real quote for your dates before you lock the budget.
 
 ---
 
@@ -376,9 +378,9 @@ Let people opt out. Forcing exhausted people to parade isn't fun for anyone.
 
 ### Save the Date
 
-> "MARDI GRAS 2026 — Let's do this.
+> "MARDI GRAS 2027 — Let's do this.
 >
-> Dates: Feb 12-18 (or portion)
+> Dates: Feb 4-10 (or portion)
 > Location: New Orleans
 > Estimated cost: $1,000-1,500 per person (including flights)
 >
@@ -410,4 +412,4 @@ Let people opt out. Forcing exhausted people to parade isn't fun for anyone.
 
 Mardi Gras with a crew is unforgettable. The key is structure without over-planning. Know where you're staying, have a loose schedule, and let the chaos happen around you.
 
-Questions? [Reach out](/contact/).
+Questions about where to put everyone? Start with [where to stay](/where-to-stay/), or check availability directly at [Castleday Retreats](https://castledayretreats.com/?utm_source=mardigrasforgroups.com&utm_medium=referral&utm_campaign=group-microsites){:target="_blank" rel="noopener"}.

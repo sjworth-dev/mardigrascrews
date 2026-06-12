@@ -1,8 +1,9 @@
 # Site settings
 title: Mardi Gras Crews
 description: The ultimate guide to planning Mardi Gras with your crew. Where to stay, parade routes, and everything you need for the biggest party on earth.
-url: "https://mardigrascrews.com"
+url: "https://mardigrasforgroups.com"
 baseurl: ""
+image: /assets/images/castleday-aerial.jpg
 
 # SEO
 author: Mardi Gras Crews
@@ -33,6 +34,7 @@ defaults:
       path: ""
     values:
       layout: "default"
+      image: /assets/images/castleday-aerial.jpg
 
 # Exclude from build
 exclude:
